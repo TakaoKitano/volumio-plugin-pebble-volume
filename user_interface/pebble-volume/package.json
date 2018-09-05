@@ -1,0 +1,19 @@
+{
+  "name": "pebble-volume",
+  "version": "1.0.0",
+  "description": "pebble-volume plugin for Volumio2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tkitano@gmail.com",
+  "license": "ISC",
+  "volumio_info": {
+    "prettyName": "volume control for JBL pebble",
+    "icon": "fa-lightbulb-o",
+    "plugin_type": "user_interface"
+  },
+  "dependencies": {
+    "kew": "^0.7.0"
+  }
+}

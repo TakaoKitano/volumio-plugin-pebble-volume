@@ -1,0 +1,14 @@
+{
+  "user_interface": {
+    "pebble-volume": {
+      "enabled": {
+        "type": "boolean",
+        "value": false
+      },
+      "status": {
+        "type": "string",
+        "value": "STOPPED"
+      }
+    }
+  }
+}
